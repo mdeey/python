@@ -1,0 +1,9 @@
+spam = 0
+
+#for num in range(101):
+#spam = spam + num
+#print(spam)
+num = 0
+while num < 101:
+	spam = spam + num
+print (spam)
